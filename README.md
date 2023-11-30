@@ -13,7 +13,7 @@ Here a company can post jobs and can see different students' profile to hire the
 
 Welcome screen of the app which shows the three buttons for admin, student and company. 
 
-<img src="https://user-images.githubusercontent.com/64039031/135813802-a14ea674-e9e2-421a-ae67-6fdc97dd8d2a.jpeg" width="250px" height="450px"/>
+<img src="https://user-images.githubusercontent.com/64039031/135813802-a14ea674-e9e2-421a-ae67-6fdc97dd8d2a.jpeg" width="250px" height="480px"/>
 
 ## ADMIN 👦
 
